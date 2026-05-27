@@ -24,8 +24,15 @@ export const sampleImages: PortfolioImage[] = [
   { src: "https://images.unsplash.com/photo-1521747116042-5a810fda9664?q=80&w=1000&auto=format&fit=crop", alt: "Group hug farewell", category: "farewell" },
 
   // Silhouette
-  { src: "https://images.unsplash.com/photo-1502159212845-f31a19546a5d?q=80&w=1000&auto=format&fit=crop", alt: "Silhouette at sunset", category: "silhouette" },
-  { src: "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?q=80&w=1000&auto=format&fit=crop", alt: "Mountain climber silhouette", category: "silhouette" },
-  { src: "https://images.unsplash.com/photo-1494959764136-6be9eb3c261e?q=80&w=1000&auto=format&fit=crop", alt: "Couple silhouette", category: "silhouette" },
-  { src: "https://images.unsplash.com/photo-1510936111840-65e151ad71bb?q=80&w=1000&auto=format&fit=crop", alt: "Cityscape silhouette", category: "silhouette" },
+  { src: "/images/silhouette/1000026983.jpg", alt: "Silhouette photo 1", category: "silhouette" },
+  { src: "/images/silhouette/1000079834.jpg", alt: "Silhouette photo 2", category: "silhouette" },
+  { src: "/images/silhouette/1000079835.jpg", alt: "Silhouette photo 3", category: "silhouette" },
+  { src: "/images/silhouette/20230825_181059.jpg", alt: "Silhouette photo 4", category: "silhouette" },
+  { src: "/images/silhouette/20230827_181501.jpg", alt: "Silhouette photo 5", category: "silhouette" },
+  { src: "/images/silhouette/20240509_185020.jpg", alt: "Silhouette photo 6", category: "silhouette" },
+  { src: "/images/silhouette/20251019_181819.jpg", alt: "Silhouette photo 7", category: "silhouette" },
+  { src: "/images/silhouette/IMG-20260510-WA0036.jpg", alt: "Silhouette photo 8", category: "silhouette" },
+  { src: "/images/silhouette/_MG_5304.jpg", alt: "Silhouette photo 9", category: "silhouette" },
+  { src: "/images/silhouette/_MG_7255.JPG", alt: "Silhouette photo 10", category: "silhouette" },
+  { src: "/images/silhouette/_MG_7295.JPG", alt: "Silhouette photo 11", category: "silhouette" },
 ];
